@@ -19,6 +19,6 @@ pip install telethon openai twilio
 3. Interact with WhatsAppGPT via the supported platforms.
 
 ## Other Relevant Information
-- This was my inaugural Python project, marking the beginning of my journey into the world of programming and AI.
+- This was my inaugural Python project in the realm of AI, marking the beginning of my journey into the world of AI.
 - The tool integrates with WhatsApp, making it easy to communicate and issue commands directly through the messaging app.
 - Remember to keep all sensitive information, like API keys and credentials, secure and avoid sharing them publicly.
